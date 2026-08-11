@@ -20,3 +20,4 @@ email = 'fulano@gmail.com'
 usuario, dominio = email.split('@')
 print(usuario)
 print(dominio)
+ #adicionafo
